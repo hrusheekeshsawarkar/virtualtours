@@ -1,0 +1,51 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Cordis Heart Institute
+
+## Media
+
+### Title
+panorama_28B8632F_2170_391E_41BD_226A07E1EE1B.label = Reception
+panorama_28BA5EB1_2170_0B03_41B4_FCF9F52BCEA8.label = 9
+panorama_28BB7A83_2170_0B06_41B0_98AE80CA6DD3.label = 4
+panorama_28BB8FA7_2170_090E_4185_16618D379D13.label = 7
+panorama_28BBA6A1_2170_1B02_41B0_3C7AAD4C1C0F.label = 10
+panorama_28BBA707_2170_790E_41B1_659AA92ACB97.label = 8
+panorama_28BBA914_2170_0901_41B3_9143786BAAA5.label = 6
+panorama_28BBF1F0_2170_1901_41BF_A823DE869343.label = 5
+panorama_2A70CAE7_2170_0B0F_41B2_1F5460026033.label = 1
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_2CB3E34C_2170_1902_41B6_97A8402F9D1D.toolTip = Click Here to Enter
+HotspotPanoramaOverlayArea_2E5579DB_2190_0906_41B0_6576A9BA02CA.toolTip = EXIT
+HotspotPanoramaOverlayArea_2E6FBC7F_2190_0FFF_418B_8ECB18B513B7.toolTip = Click here to Enter
+HotspotPanoramaOverlayArea_2E7B1DBE_2190_097E_41A1_7B07A58BA884.toolTip = EXIT
+HotspotPanoramaOverlayArea_2EA0718C_2190_1901_419B_9946B3D825DD.toolTip = Click here to Enter
+HotspotPanoramaOverlayArea_2EB4A1CD_2170_1903_419F_9E8A43FD65F2.toolTip = Click here to Enter
+HotspotPanoramaOverlayArea_2F0EED21_2170_0902_41A3_D5A5596D4F6F.toolTip = Click here to Enter
+HotspotPanoramaOverlayArea_2F14FE6D_2190_0B03_41B0_664F10DE0354.toolTip = Click here to Enter
+HotspotPanoramaOverlayArea_2F3C32E2_2190_1B06_41A7_92A5440416D2.toolTip = Click here to Enter
+HotspotPanoramaOverlayArea_302583ED_2190_F903_41B6_3D22D2BF7978.toolTip = EXIT
+HotspotPanoramaOverlayArea_30DA1957_2190_090E_41B3_09074B0BF113.toolTip = EXIT
+HotspotPanoramaOverlayArea_3188DB24_2190_0902_4186_37DBA11993BE.toolTip = Exit
+HotspotPanoramaOverlayArea_31A4D68C_2190_7B02_41B7_A39452D48EDB.toolTip = Click here to Enter
+HotspotPanoramaOverlayArea_31E67EA3_2190_0B07_415B_4C39D4050373.toolTip = EXIT
+HotspotPanoramaOverlayArea_31F82038_2190_3701_41B1_FB9B800B611B.toolTip = EXIT
+HotspotPanoramaOverlayArea_34A041A4_21F0_3902_417E_66F997C2E4EC.toolTip = Click here
+
+## Action
+
+### URL
+LinkBehaviour_2EECD5A5_2191_F903_41B1_1F0AF61B4BFA.source = //www.youtube.com/embed/3hQsp4PgMUE?v=3hQsp4PgMUE
+LinkBehaviour_30244ED6_2190_0B0E_41A8_4B4F8DC9558F.source = http://cordisheartinstitute.com/patient-reviews/
+LinkBehaviour_3065308E_2190_1701_41B9_8AC5146AA98B.source = http://cordisheartinstitute.com/patient-reviews/
+LinkBehaviour_31B0B38B_2190_1906_41B7_FBC616E78995.source = //www.youtube.com/embed/3hQsp4PgMUE?v=3hQsp4PgMUE
+LinkBehaviour_34389435_21F0_1F02_4190_8F3BDB687E8C.source = http://cordisheartinstitute.com/
+LinkBehaviour_345B0B89_21F0_0902_41C0_C5B0DB1DEC9D.source = http://cordisheartinstitute.com/
